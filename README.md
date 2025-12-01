@@ -1,10 +1,12 @@
 # Albanian NLP Analysis with Universal Dependencies
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Project_NLP/blob/main/Albanian_NLP_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/redishani1/Project_NLP/blob/master/Albanian_NLP_Analysis.ipynb)
 
 A comprehensive Python project for analyzing **Albanian language** linguistic data using the Universal Dependencies Albanian TSA treebank. This project demonstrates various NLP techniques including tokenization, lemmatization, PoS tagging, TF-IDF vectorization, and similarity analysis specifically for Albanian text.
 
 > **🚀 Quick Start:** Click the "Open in Colab" badge above to run this project instantly in your browser - no setup required!
+
+**📁 Repository:** https://github.com/redishani1/Project_NLP
 
 ## 📋 Project Description
 
@@ -63,7 +65,7 @@ Project_NLP/
 
 ### Option 1: Google Colab (Easiest - No Setup Required!)
 
-**Click the badge at the top of this README** or [open directly in Colab](https://colab.research.google.com/github/YOUR_USERNAME/Project_NLP/blob/main/Albanian_NLP_Analysis.ipynb)
+**Click the badge at the top of this README** or [open directly in Colab](https://colab.research.google.com/github/redishani1/Project_NLP/blob/master/Albanian_NLP_Analysis.ipynb)
 
 The notebook will automatically:
 - Clone the repository
